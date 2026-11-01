@@ -1,21 +1,27 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,45&height=220&section=header&text=Hi%20there,%20I'm%20Bharat%20Suthar%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Architecting%20Scalable%20Web%20Apps%20%26%20Enterprise%20ERPs&descAlignY=62&descSize=18&descColor=e0e7ff" width="100%" />
+  <h1>Hi there, I'm Bharat Suthar 👋</h1>
+  <p><strong>Full Stack Software Developer & Enterprise Systems Architect</strong></p>
+  <p>📍 Udaipur, Rajasthan, India &nbsp;|&nbsp; 🏢 TDC (The Developer Company)</p>
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Developer;Building+Scalable+Cloud+%26+Enterprise+ERPs;Specialized+in+Next.js%2C+NestJS+%26+PostgreSQL;Crafting+High-Performance+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full+Stack+Software+Developer;Architecting+Next.js%2C+NestJS+%26+Postgres+Apps;Building+Scalable+Cloud+%26+Enterprise+ERPs;Turning+Complex+Business+Logic+into+Clean+UI" alt="Typing SVG" />
   </a>
+
+  <br />
 
   <p align="center">
     <a href="https://in.linkedin.com/in/bharat-kumar-822194202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://tdcspacechat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20%2F%20Live%20App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a>
+    &nbsp;
+    <a href="https://tdcspacechat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a>
+    &nbsp;
     <a href="https://github.com/Bharat-suthar555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
+
 </div>
 
-<br />
+---
 
 ### 👨‍💻 About Me
 
@@ -114,5 +120,4 @@
     </a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,45&height=90&section=footer" width="100%" />
 </div>
