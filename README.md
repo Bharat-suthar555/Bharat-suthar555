@@ -14,8 +14,6 @@
   <p align="center">
     <a href="https://in.linkedin.com/in/bharat-kumar-822194202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
-    <a href="https://tdcspacechat.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /></a>
-    &nbsp;
     <a href="https://github.com/Bharat-suthar555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
@@ -92,11 +90,11 @@
 
 ### 🌟 Key Featured Projects
 
-| Project | Highlights & Tech Stack | Link |
+| Project | Highlights & Tech Stack | Status |
 | :--- | :--- | :---: |
 | **FinalChoiceERP** | Multi-tenant Monolith ERP for fashion & rental industries. Strict TypeScript, Next.js App Router, NestJS domain services, Drizzle ORM, double-entry ledger & BullMQ queues. | 🔒 Enterprise |
-| **BillCraft** | Modern invoice and billing generation tool built with TypeScript. | [Repo](https://github.com/Bharat-suthar555/BillCraft) |
-| **TDC Space Chat** | Real-time interactive chat platform built with modern WebSockets and clean reactive UI. | [Live Demo](https://tdcspacechat.vercel.app/) |
+| **BillCraft** | Modern invoice and billing generation tool built with TypeScript. | 🔒 Private |
+| **TDC Space Chat** | Real-time interactive chat platform built with modern WebSockets and clean reactive UI. | 🔒 Private |
 
 ---
 
@@ -109,10 +107,6 @@
   <p align="center">
     <a href="https://in.linkedin.com/in/bharat-kumar-822194202" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://tdcspacechat.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Web-Live%20Projects-000000?style=flat-square&logo=vercel" alt="Website" />
     </a>
     &nbsp;
     <a href="https://github.com/Bharat-suthar555" target="_blank">
