@@ -92,7 +92,7 @@
 
 | Project | Highlights & Tech Stack | Status |
 | :--- | :--- | :---: |
-| **FinalChoiceERP** | Multi-tenant Monolith ERP for fashion & rental industries. Strict TypeScript, Next.js App Router, NestJS domain services, Drizzle ORM, double-entry ledger & BullMQ queues. | 🔒 Enterprise |
+| **ERP** | Multi-tenant Monolith ERP for fashion & rental industries. Strict TypeScript, Next.js App Router, NestJS domain services, Drizzle ORM, double-entry ledger & BullMQ queues. | 🔒 Enterprise |
 | **BillCraft** | Modern invoice and billing generation tool built with TypeScript. | 🔒 Private |
 | **TDC Space Chat** | Real-time interactive chat platform built with modern WebSockets and clean reactive UI. | 🔒 Private |
 
